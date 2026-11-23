@@ -5,3 +5,11 @@ C4 (157): Our fridge is covered in magnets the kids made at school. My wife keep
 C5 (161): My GPS went completely silent halfway through our road trip. I don't know what I said to upset it, but I think we've reached a turning point in our relationship.
 C6 (165): The baker on our street finally retired after forty years of getting up at four every morning. He loved the work, but he said he just didn't knead the dough anymore.
 TITLE: The Fridge Magnets
+
+REVIEW (2026-11-23):
+- Submitted joke = C4 tightened ("I just can't do it" -> "I can't"), 146 chars.
+- vs C6 (baker/knead): C6 is clean but a very well-worn pun and the longest candidate (165); loses on freshness and tightness.
+- vs C2 (tape measure/great lengths): familiar pun, filler middle sentence, slightly clunky aloud; loses on tightness and delivery.
+- Verdict: submitted joke keeps the win; clean double-meaning pun, fresher family setup, pun is the final word.
+- Run check: python3 main.py run twice; /output/entry.txt byte-identical both times (sha256 21143179...c42), matches JOKE, 146 chars.
+- README: description accurate; added one sentence naming the magnet/affection double meaning and end-placed pun.

@@ -4,7 +4,7 @@
 
 # makefun-dad-joke
 
-An entry for the Dad Joke Showdown on make.fun. It tells exactly one dad joke, about the fridge magnets the kids made at school, written to be said out loud at the dinner table. A small standard-library Python program writes the joke to `/output/entry.txt`.
+An entry for the Dad Joke Showdown on make.fun. It tells exactly one dad joke, about the fridge magnets the kids made at school, written to be said out loud at the dinner table. The joke turns on a double meaning: a dad's fondness for his kids' artwork and the pull of a magnet, with the pun saved for the very last word. A small standard-library Python program writes the joke to `/output/entry.txt`.
 
 ## Run it
 
